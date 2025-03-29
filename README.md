@@ -23,9 +23,7 @@ Design and implement a robust data engineering pipeline that ingests, cleans, tr
               c.Which areas generate the highest revenue?
               d.integrate forecasting models to predict demand or revenue trends.
 
-Scalability & Performance:
-
-Optimize your pipeline for batch and potentially real-time data updates.
-
-Consider performance improvements such as partitioning, indexing, or using distributed computing frameworks (e.g., Apache Spark).
+## Scalability & Performance:
+        1.Optimize your pipeline for batch and potentially real-time data updates.
+        2.Consider performance improvements such as partitioning, indexing, or using distributed computing frameworks (e.g., Apache Spark).
 
